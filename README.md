@@ -44,6 +44,13 @@
   👉 API Docs: https://backend-formbuilder-pro.onrender.com/api-docs/  
   Full-stack HR platform with role-based access, CI/CD pipelines, and AWS deployment (Spring Boot + MongoDB).
 
+## 🧠 Problem Solving & Coding Platforms
+
+- 🟧 **LeetCode** – 350+ problems solved  
+  👉 https://leetcode.com/u/tejnarayan2050/
+
+- 🔵 **Codeforces** – Active participant in contests  
+  👉 https://codeforces.com/profile/Manishkumar-7645
 
 
 
