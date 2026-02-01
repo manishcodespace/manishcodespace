@@ -1,6 +1,6 @@
 # Hi, I'm Manish Kumar 👋
 
-📍 India  
+📍 Bengaluru, Karnataka, India  
 🚀 Full Stack Developer | DevOps  
 💼 React · Node.js · Express.js . MySQL . AWS · Docker · Kubernetes  
 
