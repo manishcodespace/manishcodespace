@@ -2,7 +2,7 @@
 
 📍 Bengaluru, Karnataka, India  
 🚀 Full Stack AI Engineer | DevOps  
-💼 React · Node.js · Express.js . MySQL . AWS · Docker · Kubernetes  
+💼 AI Powered Product || LLM || RAG || MCP || Deep Learning
 
 > > I build, deploy, and scale real-world AI applications — from intelligent systems to cloud 🚀
 
